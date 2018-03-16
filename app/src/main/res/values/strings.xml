@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Eatery App</string>
+    <string name="google_maps_key">AIzaSyARLoTLvSxdgSNv5YZ-FbN8h5AuzQL3F5g</string>
 </resources>
