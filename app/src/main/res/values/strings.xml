@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Eatery App</string>
     <string name="google_maps_key">AIzaSyARLoTLvSxdgSNv5YZ-FbN8h5AuzQL3F5g</string>
+    <string name="permission_camera_rationale">This app needs to use the camera in order to function</string>
+    <string name="permission_location_rationale">This app needs to use location in order to recommend nearby eateries</string>
+    <string name="ok">ok</string>
 </resources>
