@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Eatery App</string>
+    <string name="new_group">New Group</string>
 </resources>
